@@ -1,0 +1,32 @@
+{"id": "b01", "ticket": "Me aparecen dos débitos por la misma suscripción de este mes.", "category": "billing"}
+{"id": "b02", "ticket": "Necesito descargar la factura electrónica del período anterior.", "category": "billing"}
+{"id": "b03", "ticket": "La renovación anual se cobró antes de la fecha que esperaba.", "category": "billing"}
+{"id": "b04", "ticket": "¿Pueden revisar por qué no se aplicó el descuento que figuraba en mi cotización?", "category": "billing"}
+{"id": "b05", "ticket": "Quiero actualizar el medio de pago de la suscripción.", "category": "billing"}
+{"id": "b06", "ticket": "El comprobante que recibí tiene mal el NIT de la empresa.", "category": "billing"}
+{"id": "b07", "ticket": "Solicito información sobre el estado de un reintegro que ya fue reportado.", "category": "billing"}
+{"id": "b08", "ticket": "No reconozco un cargo que aparece con el nombre de Nubbix.", "category": "billing"}
+{"id": "t01", "ticket": "Al abrir el módulo de reportes recibo un error 500.", "category": "technical"}
+{"id": "t02", "ticket": "La integración con la pasarela dejó de sincronizar transacciones.", "category": "technical"}
+{"id": "t03", "ticket": "La aplicación tarda varios minutos en cargar el tablero principal.", "category": "technical"}
+{"id": "t04", "ticket": "No puedo exportar el informe a Excel; la descarga queda pendiente.", "category": "technical"}
+{"id": "t05", "ticket": "Desde la actualización de ayer, el sistema cierra mi sesión repetidamente.", "category": "technical"}
+{"id": "t06", "ticket": "La API devuelve respuestas 429 al enviar registros.", "category": "technical"}
+{"id": "t07", "ticket": "Los totales del dashboard no coinciden con los movimientos del día.", "category": "technical"}
+{"id": "t08", "ticket": "Al guardar una venta aparece una pantalla en blanco.", "category": "technical"}
+{"id": "a01", "ticket": "Necesito invitar a una persona nueva con permisos de solo lectura.", "category": "account"}
+{"id": "a02", "ticket": "Quiero cambiar el correo del administrador porque el anterior ya no existe.", "category": "account"}
+{"id": "a03", "ticket": "Un empleado dejó la empresa; ¿cómo revoco su acceso?", "category": "account"}
+{"id": "a04", "ticket": "Olvidé mi contraseña y no puedo ingresar a la cuenta.", "category": "account"}
+{"id": "a05", "ticket": "¿Dónde puedo modificar los datos de contacto de mi organización?", "category": "account"}
+{"id": "a06", "ticket": "Necesito transferir la administración de la cuenta a otra persona.", "category": "account"}
+{"id": "a07", "ticket": "¿Cómo activo la autenticación de dos factores para los usuarios?", "category": "account"}
+{"id": "a08", "ticket": "Un usuario invitado no recibió el correo para aceptar la invitación.", "category": "account"}
+{"id": "o01", "ticket": "¿Ofrecen descuentos por renovar por varios años?", "category": "other"}
+{"id": "o02", "ticket": "Somos una empresa de 80 personas; ¿qué planes tienen para ese tamaño?", "category": "other"}
+{"id": "o03", "ticket": "¿Tienen una guía para preparar el cierre contable de fin de año?", "category": "other"}
+{"id": "o04", "ticket": "Quisiera conocer si cuentan con un programa de referidos.", "category": "other"}
+{"id": "o05", "ticket": "¿En qué países de Latinoamérica está disponible Nubbix?", "category": "other"}
+{"id": "o06", "ticket": "Me gustaría solicitar una demostración comercial para mi equipo.", "category": "other"}
+{"id": "o07", "ticket": "¿Hay capacitaciones para nuevos clientes?", "category": "other"}
+{"id": "o08", "ticket": "Quiero dejar una sugerencia sobre una funcionalidad que todavía no existe.", "category": "other"}

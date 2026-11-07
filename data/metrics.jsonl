@@ -1,0 +1,7 @@
+{"timestamp": "2026-11-07T21:21:18.643667+00:00", "provider": "openai", "model": "unknown", "tokens": {"prompt": 0, "completion": 0, "total": 0}, "latency_s": 3.4386, "estimated_cost_usd": 0.0, "status": "error"}
+{"timestamp": "2026-11-07T21:27:06.731532+00:00", "provider": "openai", "model": "unknown", "tokens": {"prompt": 0, "completion": 0, "total": 0}, "latency_s": 2.657, "estimated_cost_usd": 0.0, "status": "error"}
+{"timestamp": "2026-11-07T21:29:15.041537+00:00", "provider": "anthropic", "model": "unknown", "tokens": {"prompt": 0, "completion": 0, "total": 0}, "latency_s": 0.0, "estimated_cost_usd": 0.0, "status": "error"}
+{"timestamp": "2026-11-07T21:33:23.048697+00:00", "provider": "anthropic", "model": "unknown", "tokens": {"prompt": 0, "completion": 0, "total": 0}, "latency_s": 0.4365, "estimated_cost_usd": 0.0, "status": "error"}
+{"timestamp": "2026-11-07T21:40:27.550165+00:00", "provider": "anthropic", "model": "unknown", "tokens": {"prompt": 0, "completion": 0, "total": 0}, "latency_s": 0.4032, "estimated_cost_usd": 0.0, "status": "error"}
+{"timestamp": "2026-11-07T22:39:46.529457+00:00", "provider": "openai", "model": "unknown", "tokens": {"prompt": 0, "completion": 0, "total": 0}, "latency_s": 4.4424, "estimated_cost_usd": 0.0, "status": "error"}
+{"timestamp": "2026-11-07T22:44:15.335675+00:00", "provider": "openai", "model": "gpt-4o-mini", "tokens": {"prompt": 639, "completion": 79, "total": 718}, "latency_s": 2.5631, "estimated_cost_usd": 0.00014325, "status": "success"}
