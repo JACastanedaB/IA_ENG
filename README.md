@@ -1,6 +1,11 @@
 
 
-M1PI | Proyecto 
+M1PI |Entrega Proyecto 
+
+Elaborado por:INg JUn ANres CAstañeda Barahona
+juanchoandres@gmail.com
+
+
 
 # Nubbix Support Triage
 
@@ -17,7 +22,7 @@ MVP de una CLI de triage para tickets de soporte. Recibe texto libre y devuelve 
 ## Instalación
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/JACastanedaB/IA_ENG.git
 cd nubbix-support-triage
 python -m venv .venv
 # Linux/macOS
@@ -71,7 +76,7 @@ Ejemplo ilustrativo de forma (el contenido real depende del modelo):
 - `prompts/`: prompts YAML versionados.
 - `evals/`: dataset etiquetado, runner y casos adversariales.
 
-## Context engineering: few-shot + límites de confianza
+## Context engineering: few-shot + límites de confianza 
 
 `v1` es zero-shot y sirve como baseline. `v2` usa few-shot examples representativos, definiciones operativas de categorías, reglas explícitas contra afirmaciones no verificadas y una delimitación `<ticket>` para tratar el texto del usuario como dato no confiable.
 
